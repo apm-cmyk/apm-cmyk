@@ -10,6 +10,6 @@
 
 ### 📊 Git Stats
 <p align = "center">
-  <img height = "400" width="400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apm-cmyk&theme=chartreuse-dark">
-  <img height = "400" width="400" src = "https://github-readme-stats.vercel.app/api?username=apm-cmyk&show_icons=true&theme=chartreuse-dark&line_height=15">
+  <img height = "200" width="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apm-cmyk&theme=chartreuse-dark">
+  <img height = "200" width="200" src = "https://github-readme-stats.vercel.app/api?username=apm-cmyk&show_icons=true&theme=chartreuse-dark&line_height=15">
 </p>
