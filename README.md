@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align ="center">
-    <img src="https://github.com/apm-cmyk/apm-cmyk/blob/main/UGZq.gif">
+    <img src="https://github.com/apm-cmyk/apm-cmyk/blob/main/UGZq.gif" width="400" heigth="400">
 </p>
 
 ### 🛠 Stacks
